@@ -4,3 +4,4 @@
 
 - <a href="https://vorsleker.no" target="_blank">Vorsleker.no</a>
 - <a href="https://cvlager.no" target="_blank">CVLager.no</a>
+- <a href="https://vyrden.no" target="_blank">Vyrden.no</a>
